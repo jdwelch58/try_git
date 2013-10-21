@@ -1,4 +1,3 @@
 try_git
 =======
-Cats readme file
-git testing
+Cats readme file for git testing
