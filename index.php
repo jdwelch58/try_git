@@ -5,7 +5,7 @@
     </head>
     <body>
         <?php
-        This is just a sample index file
+        printf("This is just a sample index file");
         ?>
     </body>
 </html>
